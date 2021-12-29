@@ -10,10 +10,10 @@
 
   <a href="https://github.com/matheus-dsa">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-dsa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=matheus-dsa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dsa&layout=compact&theme=buefy&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dsa&layout=compact&theme=buefy&hide_border=true" />
 </a>
 
 <div style="display: inline_block"><br>
