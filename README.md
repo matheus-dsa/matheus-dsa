@@ -1,15 +1,14 @@
-## Hi there �, I am Matheus Assis
+## Hi there, I am Matheus Assis
 
- - trabalho com desenvolvimento e automação de sistemas
+- 💼 systems developer
+- ❤️ passionate about technology
+- 💬 Ask me about anything 
 
 
   <a href="https://github.com/matheus-dsa">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-dsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dsa&layout=compact&langs_count=7&theme=dracula" />
-</a>
+| <a href="https://github.com/matheus-dsa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-dsa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-dsa&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,6 +33,5 @@
   <a href = "matheusdasilvaassis4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/matheus-dsa/matheus-dsa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
