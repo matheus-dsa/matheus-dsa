@@ -2,7 +2,7 @@
 
 - 💼💻 full stack software engineer/Full Stack Developer
 - ⭐️ Degree in software analysis and development
-- 📅 5 years of experience in the area
+- 📅 4 years of experience in the area
 
 ## Summry
 Developer Passionate about Technology 💻✨
